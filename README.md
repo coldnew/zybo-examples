@@ -22,3 +22,9 @@ First you need at least `Vivado 2016.2` , after open the project, you may need t
   An example to use both processing system and programmable logic to make the led flash.
 
   For more info: [zybo board 開發記錄: Zynq 與 LED 閃爍控制](http://coldnew.github.io/zybo-board/zynq_led_flash)
+
+- [Boot Linux](https://github.com/coldnew/zybo-examples/tree/master/boot_linux)
+
+  An example to boot to linux and rootfs in ramdisk.
+
+  For more info: [zybo board 開發記錄: 執行 Linux 作業系統](http://coldnew.github.io/zybo-board/zynq_linux_simple)
